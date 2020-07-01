@@ -107,8 +107,8 @@ The following options can be used to disable some generation, or even add models
 |--------------|:----------------------------------------------------------------------------------------:|:----------:|:-------------------------------------| -------- |
 | `name`      | string                                                                                 | *true*     | The base name for all items to generate           |  |
 | `namespace`       | string                                                                                 | *false*    | The namespace items will be in            | 
-| `--model`      |  | *false*    | Automatically create a model aswell                      | `false`
-| `--migration` |                                                                                  | *false*    | Automatically create a migration aswell | `false`
+| `--model`      |  | *false*    | Automatically create a model as well                      | `false`
+| `--migration` |                                                                                  | *false*    | Automatically create a migration as well | `false`
 | `--nc` |                                                                                  | *false*    | Do not generate the controller | `false`
 | `--ns` |                                                                                  | *false*    | Do not generate the service and service interface | `false`
 | `--nr` |                                                                                  | *false*    | Do not generate the repository and repository interface | `false`
